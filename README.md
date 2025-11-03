@@ -38,12 +38,7 @@ Type `exit` to quit.
 - Fetches Wikipedia extracts to enrich coach descriptions.
 - Logs errors and handles missing data gracefully.
 
-## Additional Responses
-1. Using external factual data improves chatbot accuracy and trustworthiness over language model guesses alone.
-2. Querying data live each time keeps answers current but may add latency.
-3. Coach info only in PDFs would require complex parsing, not implemented here.
-4. Multi-agent designs could improve modular, dynamic data retrieval and reasoning.
-5. Domain-specific knowledge models enhance context, reasoning, and precision in answers.
+
 
 
 
